@@ -12,7 +12,6 @@ public class Calculator{
   }
 
   private static int minus(int a, int b){
-    // GPU 연산 수행
-    return 1;
+    return a-b;
   }
 }
