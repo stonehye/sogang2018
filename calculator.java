@@ -14,4 +14,6 @@ public class Calculator{
   private static int minus(int a, int b){
     return a-b;
   }
+
+  // 함수 추가 필요
 }
